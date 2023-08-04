@@ -5,9 +5,9 @@
 The Weather Website is a dynamic and user-friendly platform that offers real-time weather updates based on user-provided location data. Developed using HTML, CSS, and JavaScript, this website integrates a powerful Weather API, enabling users to access accurate weather information quickly and efficiently. Additionally, the website includes a small yet engaging feature of displaying inspirational quotes on each visit, sourced from a Quotes API.
 
 # Features
-* Real-time Weather Updates: Users can input their desired location, and the Weather API promptly provides detailed weather information, including temperature, humidity, wind speed, and weather conditions.
+* Real-time Weather Updates: Users can input their desired location, and the OpenWeather API promptly provides detailed weather information, including temperature, humidity, wind speed, and weather conditions.
 
-* Location-based Weather: With a "Get My Location" option, users can request weather details for their current location. The website utilizes device geolocation to fetch precise, up-to-date weather data.
+* Location-based Weather: With a "Use Current Location" option, users can request weather details for their current location. The website utilizes device geolocation to fetch precise, up-to-date weather data.
 
 * Inspirational Quotes: Each time a user visits the website, an inspirational quote sourced from the Quotes API is displayed, adding a touch of positivity and motivation to the weather experience.
 
