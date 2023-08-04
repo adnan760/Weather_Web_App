@@ -19,4 +19,4 @@ The Weather Website is a dynamic and user-friendly platform that offers real-tim
 The Weather Website serves as a reliable companion for users seeking quick and accurate weather updates for their chosen locations. The inclusion of inspirational quotes adds a delightful and uplifting element to the weather-checking process, fostering positivity and motivation in users' daily lives.
 
 # Website
-URL: https://weatherviolet.netlify.app/
+URL: https://weatherviolet.netlify.app
